@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="orthodoxprayersandservices/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/orthodoxprayersandservices.iml" filepath="$PROJECT_DIR$/.idea/modules/orthodoxprayersandservices.iml" group="orthodoxprayersandservices" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2131495103/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-2131495103/react-native-gesture-handler.iml" group="orthodoxprayersandservices/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/753260873/react-native-onesignal.iml" filepath="$PROJECT_DIR$/.idea/modules/753260873/react-native-onesignal.iml" group="orthodoxprayersandservices/react-native-onesignal" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/746213429/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/746213429/react-native-vector-icons.iml" group="orthodoxprayersandservices/react-native-vector-icons" />
+    </modules>
+  </component>
+</project>
