@@ -1,0 +1,13 @@
+
+First : anna 
+Last : skoubourdis
+Organization Name : athletis
+City : Redbank plains
+State : Queensland
+Country : Australia
+
+alias: orthodoxprayersandservices
+key store path: /android/orthodox_prayers_and_services
+
+User name : OrthodoxPrayersAndServices
+Password : OrthodoxPrayersAndServices
