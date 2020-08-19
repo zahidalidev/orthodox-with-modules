@@ -15,3 +15,7 @@ Password : OrthodoxPrayersAndServices
 /app/build.gralde
 versionCode 15
 versionName "1.40"
+
+run folloeing command in root directry to generate main.jsbundle file for ios
+
+react-native bundle --entry-file index.js --platform ios --dev false --bundle-output ios/main.jsbundle --assets-dest ios
