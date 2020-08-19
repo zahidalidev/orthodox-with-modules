@@ -15,8 +15,8 @@
             "value": "arm64-v8a"
           }
         ],
-        "versionCode": 3145742,
-        "versionName": "1.32",
+        "versionCode": 3145743,
+        "versionName": "1.40",
         "filterName": "arm64-v8a",
         "outputFile": "app-arm64-v8a-release.apk",
         "fullName": "arm64-v8aRelease",
@@ -42,8 +42,8 @@
             "value": "armeabi-v7a"
           }
         ],
-        "versionCode": 1048590,
-        "versionName": "1.32",
+        "versionCode": 1048591,
+        "versionName": "1.40",
         "filterName": "armeabi-v7a",
         "outputFile": "app-armeabi-v7a-release.apk",
         "fullName": "armeabi-v7aRelease",
@@ -66,18 +66,18 @@
         "splits": [
           {
             "filterType": "ABI",
-            "value": "x86"
+            "value": "x86_64"
           }
         ],
-        "versionCode": 2097166,
-        "versionName": "1.32",
-        "filterName": "x86",
-        "outputFile": "app-x86-release.apk",
-        "fullName": "x86Release",
-        "baseName": "x86-release",
-        "dirName": "x86\\"
+        "versionCode": 4194319,
+        "versionName": "1.40",
+        "filterName": "x86_64",
+        "outputFile": "app-x86_64-release.apk",
+        "fullName": "x86_64Release",
+        "baseName": "x86_64-release",
+        "dirName": "x86_64\\"
       },
-      "path": "resources-x86Release.ap_",
+      "path": "resources-x86_64Release.ap_",
       "properties": {
         "packageId": "com.orthodoxprayersandservices",
         "split": "",
@@ -93,18 +93,18 @@
         "splits": [
           {
             "filterType": "ABI",
-            "value": "x86_64"
+            "value": "x86"
           }
         ],
-        "versionCode": 4194318,
-        "versionName": "1.32",
-        "filterName": "x86_64",
-        "outputFile": "app-x86_64-release.apk",
-        "fullName": "x86_64Release",
-        "baseName": "x86_64-release",
-        "dirName": "x86_64\\"
+        "versionCode": 2097167,
+        "versionName": "1.40",
+        "filterName": "x86",
+        "outputFile": "app-x86-release.apk",
+        "fullName": "x86Release",
+        "baseName": "x86-release",
+        "dirName": "x86\\"
       },
-      "path": "resources-x86_64Release.ap_",
+      "path": "resources-x86Release.ap_",
       "properties": {
         "packageId": "com.orthodoxprayersandservices",
         "split": "",

@@ -1,4 +1,4 @@
-#Wed Aug 19 14:03:28 PKT 2020
+#Wed Aug 19 16:14:41 PKT 2020
 base.0=D\:\\new version oth adnan bhai\\orthodox_master\\android\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

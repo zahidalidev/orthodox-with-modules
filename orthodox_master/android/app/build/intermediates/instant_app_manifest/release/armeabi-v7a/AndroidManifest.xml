@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.orthodoxprayersandservices"
     android:targetSandboxVersion="2"
-    android:versionCode="1048590"
-    android:versionName="1.32" >
+    android:versionCode="1048591"
+    android:versionName="1.40" >
 
     <uses-sdk
         android:minSdkVersion="16"
