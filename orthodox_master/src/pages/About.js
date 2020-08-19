@@ -121,7 +121,12 @@ class About extends Component {
               {
                 this.state.about_us.map((des, i) => {
                   if(des.match(replacePattern1) || des.match(replacePattern2) || des.match(replacePattern3)){
-                    return <Text key={i} style={{color: "red"}} onPress={ ()=> Linking.openURL("http://" + des) } >{` ${des}`}</Text>
+                    let includeHTpp = des.search("http");
+                    if(includeHTpp === -1){
+                      return <Text key = {i} style={{color: "red"}} onPress={ ()=> Linking.openURL("http://" + des) } >{` ${des}`}</Text>
+                    }else{
+                      return <Text key = {i} style={{color: "red"}} onPress={ ()=> Linking.openURL(des) } >{` ${des}`}</Text>
+                    }
                   }else{
                     return ` ${des}`
                   }

@@ -15,8 +15,8 @@
             "value": "arm64-v8a"
           }
         ],
-        "versionCode": 3145741,
-        "versionName": "1.31",
+        "versionCode": 3145742,
+        "versionName": "1.32",
         "filterName": "arm64-v8a",
         "outputFile": "app-arm64-v8a-release.apk",
         "fullName": "arm64-v8aRelease",
@@ -39,38 +39,11 @@
         "splits": [
           {
             "filterType": "ABI",
-            "value": "x86_64"
-          }
-        ],
-        "versionCode": 4194317,
-        "versionName": "1.31",
-        "filterName": "x86_64",
-        "outputFile": "app-x86_64-release.apk",
-        "fullName": "x86_64Release",
-        "baseName": "x86_64-release",
-        "dirName": "x86_64\\"
-      },
-      "path": "resources-x86_64Release.ap_",
-      "properties": {
-        "packageId": "com.orthodoxprayersandservices",
-        "split": "",
-        "minSdkVersion": "16"
-      }
-    },
-    {
-      "outputType": {
-        "type": "PROCESSED_RES"
-      },
-      "apkData": {
-        "type": "FULL_SPLIT",
-        "splits": [
-          {
-            "filterType": "ABI",
             "value": "armeabi-v7a"
           }
         ],
-        "versionCode": 1048589,
-        "versionName": "1.31",
+        "versionCode": 1048590,
+        "versionName": "1.32",
         "filterName": "armeabi-v7a",
         "outputFile": "app-armeabi-v7a-release.apk",
         "fullName": "armeabi-v7aRelease",
@@ -96,8 +69,8 @@
             "value": "x86"
           }
         ],
-        "versionCode": 2097165,
-        "versionName": "1.31",
+        "versionCode": 2097166,
+        "versionName": "1.32",
         "filterName": "x86",
         "outputFile": "app-x86-release.apk",
         "fullName": "x86Release",
@@ -105,6 +78,33 @@
         "dirName": "x86\\"
       },
       "path": "resources-x86Release.ap_",
+      "properties": {
+        "packageId": "com.orthodoxprayersandservices",
+        "split": "",
+        "minSdkVersion": "16"
+      }
+    },
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "FULL_SPLIT",
+        "splits": [
+          {
+            "filterType": "ABI",
+            "value": "x86_64"
+          }
+        ],
+        "versionCode": 4194318,
+        "versionName": "1.32",
+        "filterName": "x86_64",
+        "outputFile": "app-x86_64-release.apk",
+        "fullName": "x86_64Release",
+        "baseName": "x86_64-release",
+        "dirName": "x86_64\\"
+      },
+      "path": "resources-x86_64Release.ap_",
       "properties": {
         "packageId": "com.orthodoxprayersandservices",
         "split": "",

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.orthodoxprayersandservices",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86"
+        }
+      ],
+      "properties": [],
+      "versionCode": 2097166,
+      "versionName": "1.32",
+      "enabled": true,
+      "outputFile": "app-x86-debug.apk"
+    }
+  ]
+}

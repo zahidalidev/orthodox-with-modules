@@ -117,9 +117,10 @@ android {
         applicationId "com.orthodoxprayersandservices"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 13
-        versionName "1.31"
+        versionCode 14
+        versionName "1.32"
     }
+    
     signingConfigs {
         release {
             if (project.hasProperty('MYAPP_UPLOAD_STORE_FILE')) {

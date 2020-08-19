@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:1:1-29:12
-MERGED from [:react-native-onesignal] D:\new version oth adnan bhai\orth_final_adnan-master\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
-MERGED from [:react-native-vector-icons] D:\new version oth adnan bhai\orth_final_adnan-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-gesture-handler] D:\new version oth adnan bhai\orth_final_adnan-master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-onesignal] D:\new version oth adnan bhai\orthodox_master\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-vector-icons] D:\new version oth adnan bhai\orthodox_master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] D:\new version oth adnan bhai\orthodox_master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\4620422c24e660dfe31401129eaafc7c\react-native-0.59.9\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\02a0b5591867b269bf90099dda756d74\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.onesignal:OneSignal:3.10.8] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\c6e52f113a3955e75c65a40f0d578c5a\OneSignal-3.10.8\AndroidManifest.xml:2:1-107:12
@@ -56,37 +56,37 @@ MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Zahid Ali
 MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\064e27e671d72dadb54c7dbd9def903a\play-services-basement-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\ccddf21fbf80232736655aaa3d2ef5ee\firebase-common-license-12.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\d38808fc26c5d82c61c7d2a5e834cfe8\play-services-tasks-license-12.0.1\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:1:1-29:12
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:1:1-29:12
 	package
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:2:3-43
-		INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:2:3-43
+		INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:1:1-29:12
-		INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:1:1-29:12
-		INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:4:5-67
 MERGED from [com.onesignal:OneSignal:3.10.8] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\c6e52f113a3955e75c65a40f0d578c5a\OneSignal-3.10.8\AndroidManifest.xml:17:5-67
 MERGED from [com.onesignal:OneSignal:3.10.8] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\c6e52f113a3955e75c65a40f0d578c5a\OneSignal-3.10.8\AndroidManifest.xml:17:5-67
 MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\4df3f0383ea153939e2465bd623e6796\firebase-iid-12.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\4df3f0383ea153939e2465bd623e6796\firebase-iid-12.0.1\AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:5:5-80
+ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:5:5-80
 	android:name
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:5:22-78
 application
-ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:7:5-27:19
+ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:7:5-27:19
 MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\4620422c24e660dfe31401129eaafc7c\react-native-0.59.9\AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\4620422c24e660dfe31401129eaafc7c\react-native-0.59.9\AndroidManifest.xml:11:5-20
 MERGED from [com.onesignal:OneSignal:3.10.8] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\c6e52f113a3955e75c65a40f0d578c5a\OneSignal-3.10.8\AndroidManifest.xml:49:5-105:19
@@ -128,55 +128,55 @@ MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:9:7-39
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:9:7-39
 	android:roundIcon
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:11:7-52
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:11:7-52
 	android:icon
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:10:7-41
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:10:7-41
 	android:allowBackup
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:12:7-34
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:12:7-34
 	android:theme
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:13:7-38
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:13:7-38
 	android:name
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:8:7-38
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:8:7-38
 activity#com.orthodoxprayersandservices.MainActivity
-ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:14:7-25:18
+ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:14:7-25:18
 	android:label
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:16:9-41
 	android:launchMode
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:20:9-39
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:20:9-39
 	android:windowSoftInputMode
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:19:9-51
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:19:9-51
 	android:configChanges
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:18:9-79
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:18:9-79
 	android:theme
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:17:9-43
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:17:9-43
 	android:name
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:15:9-37
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:15:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:21:9-24:25
+ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:21:9-24:25
 action#android.intent.action.MAIN
-ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:22:13-65
+ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:22:13-65
 	android:name
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:22:21-62
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:22:21-62
 category#android.intent.category.LAUNCHER
-ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:23:13-73
+ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:23:13-73
 	android:name
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:23:23-70
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:23:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:26:7-84
+ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:26:7-84
 	android:name
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:26:17-81
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:26:17-81
 uses-sdk
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
-MERGED from [:react-native-onesignal] D:\new version oth adnan bhai\orth_final_adnan-master\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-onesignal] D:\new version oth adnan bhai\orth_final_adnan-master\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
-MERGED from [:react-native-vector-icons] D:\new version oth adnan bhai\orth_final_adnan-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] D:\new version oth adnan bhai\orth_final_adnan-master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] D:\new version oth adnan bhai\orth_final_adnan-master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] D:\new version oth adnan bhai\orth_final_adnan-master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-onesignal] D:\new version oth adnan bhai\orthodox_master\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-onesignal] D:\new version oth adnan bhai\orthodox_master\node_modules\react-native-onesignal\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-44
+MERGED from [:react-native-vector-icons] D:\new version oth adnan bhai\orthodox_master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\new version oth adnan bhai\orthodox_master\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\new version oth adnan bhai\orthodox_master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] D:\new version oth adnan bhai\orthodox_master\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\4620422c24e660dfe31401129eaafc7c\react-native-0.59.9\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\4620422c24e660dfe31401129eaafc7c\react-native-0.59.9\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\02a0b5591867b269bf90099dda756d74\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
@@ -275,16 +275,16 @@ MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Zahid 
 MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\ccddf21fbf80232736655aaa3d2ef5ee\firebase-common-license-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\d38808fc26c5d82c61c7d2a5e834cfe8\play-services-tasks-license-12.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\d38808fc26c5d82c61c7d2a5e834cfe8\play-services-tasks-license-12.0.1\AndroidManifest.xml:20:5-44
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
-INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
-		INJECTED from D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
 permission#${applicationId}.permission.C2D_MESSAGE
 ADDED from [com.onesignal:OneSignal:3.10.8] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\c6e52f113a3955e75c65a40f0d578c5a\OneSignal-3.10.8\AndroidManifest.xml:8:5-10:47
 MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\4df3f0383ea153939e2465bd623e6796\firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47

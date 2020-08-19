@@ -1,21 +1,21 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.orthodoxprayersandservices"
-4    android:versionCode="4194317"
-5    android:versionName="1.31" >
+4    android:versionCode="4194318"
+5    android:versionName="1.32" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
+8-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml
+9-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:4:5-67
-11-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:4:22-64
+11-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:4:5-67
+11-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:4:22-64
 12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-12-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:5:5-80
-12-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:5:22-78
+12-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:5:5-80
+12-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:5:22-78
 13
 14    <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
 15    <permission
@@ -102,49 +102,49 @@
 49-->[com.onesignal:OneSignal:3.10.8] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\c6e52f113a3955e75c65a40f0d578c5a\OneSignal-3.10.8\AndroidManifest.xml:47:22-86
 50
 51    <application
-51-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:7:5-27:19
+51-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:7:5-27:19
 52        android:name="com.orthodoxprayersandservices.MainApplication"
-52-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:8:7-38
+52-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:8:7-38
 53        android:allowBackup="false"
-53-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:12:7-34
+53-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:12:7-34
 54        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
 54-->[com.android.support:support-compat:28.0.0] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\00567bd0de14b33d1bf8a440dc72bff8\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 55        android:icon="@mipmap/ic_launcher"
-55-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:10:7-41
+55-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:10:7-41
 56        android:label="@string/app_name"
-56-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:9:7-39
+56-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:9:7-39
 57        android:roundIcon="@mipmap/ic_launcher_round"
-57-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:11:7-52
+57-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:11:7-52
 58        android:theme="@style/AppTheme" >
-58-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:13:7-38
+58-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:13:7-38
 59        <activity
-59-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:14:7-25:18
+59-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:14:7-25:18
 60            android:name="com.orthodoxprayersandservices.MainActivity"
-60-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:15:9-37
+60-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:15:9-37
 61            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
-61-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:18:9-79
+61-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:18:9-79
 62            android:label="@string/app_name"
-62-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:16:9-41
+62-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:16:9-41
 63            android:launchMode="singleTop"
-63-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:20:9-39
+63-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:20:9-39
 64            android:theme="@style/SplashTheme"
-64-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:17:9-43
+64-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:17:9-43
 65            android:windowSoftInputMode="adjustResize" >
-65-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:19:9-51
+65-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:19:9-51
 66            <intent-filter>
-66-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:21:9-24:25
+66-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:21:9-24:25
 67                <action android:name="android.intent.action.MAIN" />
-67-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:22:13-65
-67-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:22:21-62
+67-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:22:13-65
+67-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:22:21-62
 68
 69                <category android:name="android.intent.category.LAUNCHER" />
-69-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:23:13-73
-69-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:23:23-70
+69-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:23:13-73
+69-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:23:23-70
 70            </intent-filter>
 71        </activity>
 72        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-72-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:26:7-84
-72-->D:\new version oth adnan bhai\orth_final_adnan-master\android\app\src\main\AndroidManifest.xml:26:17-81
+72-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:26:7-84
+72-->D:\new version oth adnan bhai\orthodox_master\android\app\src\main\AndroidManifest.xml:26:17-81
 73
 74        <meta-data
 74-->[com.onesignal:OneSignal:3.10.8] C:\Users\Zahid Ali\.gradle\caches\transforms-2\files-2.1\c6e52f113a3955e75c65a40f0d578c5a\OneSignal-3.10.8\AndroidManifest.xml:50:9-52:51

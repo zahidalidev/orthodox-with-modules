@@ -11,3 +11,7 @@ key store path: /android/orthodox_prayers_and_services
 
 User name : OrthodoxPrayersAndServices
 Password : OrthodoxPrayersAndServices
+
+/app/build.gralde
+versionCode 14
+versionName "1.32"
