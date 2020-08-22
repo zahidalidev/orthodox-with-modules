@@ -85,11 +85,13 @@ class ViewPrayer extends Component {
       replacePattern2 = /(^|[^\/])(www\.[\S]+(\b|$))/gim;
       replacePattern3 = /(([a-zA-Z0-9\-\_\.])+@[a-zA-Z\_]+?(\.[a-zA-Z]{2,6})+)/gim;
       
+      converted = converted.replace(/(\r\n|\n|\r)/gm, " \n ");
+
       var arr = converted.split(/\r| /);
-      console.log(".....................................arr:");
-      arr.map(ar => {
-        console.log("\n", ar)
-      })
+      // console.log(".....................................arr:");
+      // arr.map(ar => {
+      //   console.log("\n", ar)
+      // })
       converted = arr;
   
       this.setState({ description: converted, replacePattern1, replacePattern2, replacePattern3});
@@ -227,6 +229,9 @@ class ViewPrayer extends Component {
                 this.state.description.map((des, i) => {
                   if(des.match(replacePattern1) || des.match(replacePattern2) || des.match(replacePattern3)){
                     let includeHTpp = des.search("http");
+
+                      console.log("......here...........:", des);
+
                     if(includeHTpp === -1){
                       return <Text key = {i} style={{color: "red"}} onPress={ ()=> Linking.openURL("http://" + des) } >{` ${des}`}</Text>
                     }else{
