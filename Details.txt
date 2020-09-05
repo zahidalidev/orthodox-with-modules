@@ -21,3 +21,7 @@ react-native bundle --entry-file index.js --platform ios --dev false --bundle-ou
 
 //for logging:-
 react-native log-android
+
+//path to update version in gradle and menifest
+android\app\build\intermediates\manifest_merge_blame_file\debug\manifest-merger-blame-debug-report.txt
+
